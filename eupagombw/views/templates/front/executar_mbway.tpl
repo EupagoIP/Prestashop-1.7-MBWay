@@ -48,7 +48,7 @@ align-self:center;"
             {/if}
         </p>
         <p id="eupagombw_payment_button">
-        <form action="{$link->getModuleLink('eupagombw', 'validambway')|escape:'html':'UTF-8'}" method="post"
+        <form action="{$link->getModuleLink('eupagombw', 'validaMbway')|escape:'html':'UTF-8'}" method="post"
               id="eupagombw" onSubmit="return validateForm()">
             <table 
                    style="width: 400px;color:#666;background-color: #ffffff;height: 50px; margin-left: auto;

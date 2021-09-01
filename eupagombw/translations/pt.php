@@ -2,17 +2,13 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{eupagombw}prestashop>eupagombw_2d9157a04229e62a0f13f333624ab394'] = 'euPago - MB WAY';
-$_MODULE['<{eupagombw}prestashop>eupagombw_ca77a324ff9fa134c67d38a7c68d9d4a'] = 'Este módulo é um método de pagamento português que permite aos seus clientes façam pagamentos através do  seu smartphone ou tablet.';
-$_MODULE['<{eupagombw}prestashop>eupagombw_fa5e1a770f774bd6cb4c8565bff6722f'] = 'Tem uma certeza de que quer desinstalar o módulo MB WAY?';
+$_MODULE['<{eupagombw}prestashop>eupagombw_fa5e1a770f774bd6cb4c8565bff6722f'] = 'Tem a certeza de que quer desinstalar o módulo MB WAY?';
 $_MODULE['<{eupagombw}prestashop>eupagombw_db014ade8645dab5fdb1c28c94c5e524'] = 'Deve registar a chave API';
 $_MODULE['<{eupagombw}prestashop>eupagombw_92d4773a9f32fc3333cb8238471cf763'] = 'Para instalar este módulo no seu servidor, é necessário ativar a extensão de cURL';
 $_MODULE['<{eupagombw}prestashop>eupagombw_f4f70727dc34561dfde1a3c529b6205c'] = 'Definições';
 $_MODULE['<{eupagombw}prestashop>eupagombw_c73e282b45852a40def07d5941cde157'] = 'Chave fornecida pela euPago, se não contêm uma chave contacte-nos em www.eupago.pt';
 $_MODULE['<{eupagombw}prestashop>eupagombw_62c7594948c1231bbae9f948b1535b7e'] = 'Chave API';
 $_MODULE['<{eupagombw}prestashop>eupagombw_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
-$_MODULE['<{eupagombw}prestashop>redirect_c453a4b8e8d98e82f35b67f433e3b4da'] = 'Pagamento';
-$_MODULE['<{eupagombw}prestashop>redirect_902b0d55fddef6f8d651fe1035b7d4bd'] = 'Erro';
 $_MODULE['<{eupagombw}prestashop>admin_dados_mbway_ed1aacab8fe34be11f4cc6b22c46a4e1'] = 'Informação Pagamento MB WAY ';
 $_MODULE['<{eupagombw}prestashop>admin_dados_mbway_4de620f601e6e94f1a180f6e7e835339'] = 'Nº Telemóvel';
 $_MODULE['<{eupagombw}prestashop>admin_dados_mbway_3dd42bfc8345e82c43b4a40a3426ec49'] = 'Referência';
@@ -62,8 +58,6 @@ $_MODULE['<{eupagombw}prestashop>template_2_c3fee7c30166e5b6c92625c925bff62e'] =
 $_MODULE['<{eupagombw}prestashop>template_2_e81c4e4f2b7b93b481e13a8553c2ae1b'] = 'ou';
 $_MODULE['<{eupagombw}prestashop>template_2_7e18ce0cf5b50c9c4709719735034492'] = 'telefone para o +351 222 061 597';
 $_MODULE['<{eupagombw}prestashop>template_2_78e603e88a02fdc591f547570bbfebba'] = 'ou através de email para';
-$_MODULE['<{eupagombw}prestashop>mbway_b6d7f37c3571d9320855dd34f9658f2b'] = ' Pagar com MB Way';
-$_MODULE['<{eupagombw}prestashop>mbway_3b4c7a039416be8a435a84c567a0b85f'] = ' Pagar por MB Way';
 $_MODULE['<{eupagombw}prestashop>admin_f80c8361654cb2a6b57e11b9a368de87'] = 'Pagamento por MB Way';
 $_MODULE['<{eupagombw}prestashop>admin_d1457170f205323fa446500f864338e7'] = 'Número de Telemóvel ';
 $_MODULE['<{eupagombw}prestashop>admin_63d5049791d9d79d86e9a108b0a999ca'] = 'Referência';
